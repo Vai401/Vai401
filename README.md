@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Taibhav
+- 👋 Hi, I’m @Vaibhav
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning artificial intelligence(Btech)
 - 💞️ I’m looking to collaborate on ML projects
