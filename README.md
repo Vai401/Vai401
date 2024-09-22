@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vaibhav
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning artificial intelligence(Btech)
+- 🌱 I’m currently learning artificial intelligence(B-tech)
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me: vsghubade@gmail.com
 
